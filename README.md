@@ -15,7 +15,7 @@ Before running the script, make sure you have the following:
 1. Clone the repository:
 
     ```bash
-    git clone <repository-url>
+    git clone git@github.com:steve2030/IaC-in-GO.git
     ```
 
 2. Navigate to the directory containing the script.
